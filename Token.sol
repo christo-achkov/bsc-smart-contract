@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.2;
+pragma solidity ^0.7.4;
 
 contract Token {
     uint public totalSupply = 1000000000 * 10 ** 18;
